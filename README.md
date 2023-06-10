@@ -1,4 +1,4 @@
-# Rename-Images-Timme-Laragy-Lab
+# Image-Renaming-Randomizer
  - [Prerequisites](prerequisites)   
  - [Instructions](instrutions)
  - [Troubleshooting](troubleshooting)
