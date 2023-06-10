@@ -1,3 +1,6 @@
+#Liam Reidy - liamreidy.com
+#created 6/9/2023
+#updated 6/10/2023
 import os
 import random
 
