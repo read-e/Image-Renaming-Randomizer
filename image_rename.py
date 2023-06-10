@@ -10,7 +10,8 @@ def rename(pathName):
     f = open(answerFilePath, "w")
 
     for directory in os.listdir(pathName):
-        randomNum1 = random.randint(0, 1000)
+        randomNum1 = random.randint(0, 10000)
+        randomNum1 += random.randint(0,10000)
         newDirName = str(randomNum1)
         f.write(repr(directory) + " was renamed to " + newDirName + ".txt\n")
         dirPath = os.path.join(pathName, directory)
@@ -18,6 +19,7 @@ def rename(pathName):
         os.rename(dirPath, newDirPath)
 
         for file in os.listdir(newDirPath):
+            randomNum2 = random.randint(0, 10000)
             randomNum2 = random.randint(0, 10000)
             newImgName = str(randomNum2)
             filePath = os.path.join(newDirPath, file)
