@@ -27,7 +27,7 @@
 10. Barring any errors Python spat at you, everything has been succesfully renamed! See the answer key in the same directory the main folder (that holds everything else) was kept.
  
 
-###  **Troubleshooting:**
+## **Troubleshooting:**
 1. ``` Python : The term 'Python' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.```
   
   Make sure you have Python installed. If you do, this likely means you need to add Python to your path variable (you don't need to insall anything new if you already have Python)
