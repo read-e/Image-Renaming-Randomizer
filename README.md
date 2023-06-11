@@ -9,7 +9,7 @@
 ## Prerequisites 
  - 🐍 Have the most recent version of Python installed
  - 🪟 Windows 10 or 11 
- - 📁 Set up your data so there is 1 folder that contains many other folders. Each of the folders within the first one contain the images you need. For example, the folder "Set 1" contains all the "Control" and "PFOS" folders in it, where each of the "Control" and "PFOS" folders contain the images themselves. THe folders do not have to match the names in this example, just the structure.
+ - 📁 Set up your data so there is 1 folder that contains many other folders. Each of the folders within the first one contain the images you need. For example, the folder "Set 1" contains all the "Control" and "PFOS" folders in it, where each of the "Control" and "PFOS" folders contain the images themselves. The folders do not have to match the names in this example, just the structure.
  - 🖼️ Make a backup !
   
   
