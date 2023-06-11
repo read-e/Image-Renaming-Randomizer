@@ -1,5 +1,6 @@
 # Image-Renaming-Randomizer
-        
+          
+          A program to automatically blind your control and PFOS images, and create an answer key with the new and old names
       
 **_Please make a backup of your images before you run this program. Do not run it twice on the same data, or the answer key will be overwritten_**  
 
