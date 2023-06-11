@@ -1,16 +1,18 @@
 # Image-Renaming-Randomizer
- - [Prerequisites](prerequisites)   
- - [Instructions](instrutions)
- - [Troubleshooting](troubleshooting)
-      
+        
       
 **_Please make a backup of your images before you run this program. Do not run it twice on the same data, or the answer key will be overwritten_**  
+
   
 ## Prerequisites 
  - 🐍 Have the most recent version of Python installed
  - 🪟 Windows 10 or 11 
  - 📁 Set up your data so there is 1 folder that contains many other folders. Each of the folders within the first one contain the images you need. For example, the folder "Set 1" contains all the "Control" and "PFOS" folders in it, where each of the "Control" and "PFOS" folders contain the images themselves. The folders do not have to match the names in this example, just the structure.
- - 🖼️ Make a backup !
+ - 🖼️ Make a backup !  
+ 
+  
+## Video Instructions  
+https://youtu.be/4v9exRA81Qs  
   
   
 ## **Instructions:**
@@ -21,7 +23,7 @@
 4. Open your downloads folder, right click ```image_rename.py``` and ```copy file path```
 5. Open a ```Terminal``` or ```Command pPrompt``` window by pressing the windows key and typing "terminal" or "command prompt"
 6. Type ```Python PATH_YOU_COPIED``` where ```PATH_YOU_COPIED``` is the filepath you copied. You can paste it using ```ctrl + v``` or  ```ctrl + shift + v```. **Press enter to run the program.**
-7. The program will start to run. Open ```File explorer``` and navigate to the folder that contains the other folders which hold the images. **NOTE:** [See prerequisites to make sure your folders are set up correctly](prerequisites)
+7. The program will start to run. Open ```File explorer``` and navigate to the folder that contains the other folders which hold the images. **NOTE:** _See prerequisites to make sure your folders are set up correctly_
 8. Click the bar at the top of ```file explorer``` that tells you which folder you are in. This will expand it to the full filepath, and highlight it. Copy this path.
 9. Paste this new filepath into the Python program, and hit enter.
 10. Barring any errors Python spat at you, everything has been succesfully renamed! See the answer key in the same directory the main folder (that holds everything else) was kept.
