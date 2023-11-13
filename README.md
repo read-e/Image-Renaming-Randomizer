@@ -19,7 +19,7 @@ https://youtu.be/4v9exRA81Qs
 ## **Instructions:**
 
 1. To download the code, click ```<>Code``` in the top right, then ```Download ZIP```. You'll have to unzip the folder once it is downloaded.
-2. BACKUP ALL IMAGES. This script works, but everyone's has their computer set up a little different, and we don't want to lose any data. Copy the folder that has the folders of images, and put it somewhere safe in a new "Backup" folder. Should something go wrong, this will allow you to still do the randomization by hand.
+2. BACKUP ALL IMAGES. The script works fine, but everyone's computer is set up a little differently, and we don't want to lose any data if something goes wrong. Copy the folder that has the folders of images, and put it somewhere safe in a new "Backup" folder. Should something go wrong, this will allow you to still do the randomization by hand.
 3. Download  ```image_rename.py``` from this repository
 4. Open your downloads folder, right click ```image_rename.py``` and ```copy file path```
 5. Open a ```Terminal``` or ```Command pPrompt``` window by pressing the windows key and typing "terminal" or "command prompt"
